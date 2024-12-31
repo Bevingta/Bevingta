@@ -2,8 +2,7 @@
 
 Hello! My name is Andrew Bevington. I am a current senior at Boston College studying Computer Science. Below is a quick overview of the projects publicly available in my GitHub repo. 
 
-![<Badge Raffle Counter>](https://github.com/Bevingta/raffle_counter<Badge Raffle Counter>-<Background Blue>?style=for-the-badge&logo=<Icon probot>&logoColor=<Logo White>)
-
+![Raffle Counter](https://img.shields.io/badge/Raffle_Counter-0-blue?style=for-the-badge&logo=robot&logoColor=white)
 <!--
 **Bevingta/Bevingta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
