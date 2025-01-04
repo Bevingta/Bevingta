@@ -17,7 +17,7 @@ This served as the capstone project for my college course Biomedial Image Analys
 
 <img width="350" alt="fMRI results" src="https://github.com/user-attachments/assets/c2b35754-1f7c-406d-bed7-d6c09f121594" />
 
-[![Teacher Database](https://img.shields.io/badge/Teacher_Databasedarkorchid?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SawyerMaloney/hth)
+[![Teacher-Database](https://img.shields.io/badge/Teacher_Databasedarkorchid?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SawyerMaloney/hth)
 
 **Tech:** Python, MongoDB
 
