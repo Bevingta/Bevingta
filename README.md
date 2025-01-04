@@ -15,4 +15,4 @@ This project was made for my mom who volunteers at my brother's school managing 
 
 This served as the capstone project for my college course Biomedial Image Analysis which I worked on with two other teammates. This project leverages deep learning architectures including VDVAE (Very Deep Variational Autoencoder) and Versatile Diffusion models to take in fMRI scans and reconstruct the image that a patient was viewing at the time of the scan. Built with PyTorch and using AWS for data processing, we implemented both Ridge Regression and SGD-based approaches for feature extraction, with optimizations for memory-efficient processing of high-dimensional neuroimaging data. The pipeline successfully demonstrates efficent conversions between brain scans and reconstructed images, contributing to advances in neural decoding and brain-computer interface development for less computationally competent machines.
 
-<img width="675" alt="fMRI results" src="https://github.com/user-attachments/assets/c2b35754-1f7c-406d-bed7-d6c09f121594" />
+<img width="350" alt="fMRI results" src="https://github.com/user-attachments/assets/c2b35754-1f7c-406d-bed7-d6c09f121594" />
