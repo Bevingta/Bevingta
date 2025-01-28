@@ -27,5 +27,6 @@ This served as the capstone project for my college course Biomedial Image Analys
 
 This project served as my entry to the 2023 24-hour hackathon at Boston College. Along with one other teammate, we created a scalable and synchronous database. Leveraging Python as the backend and MongoDB as the database we created a place for teachers to upload, download, and comment on documents categorized both by grade level as well as subject. We aimed to improve the teacher experience by allowing something like a 3rd grade math teacher in Montana to upload worksheets she created which another teacher may download and use in her own class saving hours of work and making an increcibly stressful job a little easier and more collaborative. Our project won the MongoDB award for "Best Database Implementation".
 
+---
 
 Outside of coding I love to make things. I do a fair bit of woodworking and cobbling, having created multiple shoes completely from scratch leather. I also hike when I can and have picked up a habit of biking almost everywhere I want to go. Thank you for taking the time to read this all and please reach out to bevingtonan@gmail.com if you have any questions
